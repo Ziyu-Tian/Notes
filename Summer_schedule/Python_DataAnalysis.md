@@ -103,6 +103,15 @@ sns.set(rc={"figure.figsize":(12, 8)})
 slope, intercept, r_value, p_value, std_err = stats.linregress(electric['Unit'], electric['Carbon'])
 # stats.linregress() can be use to calculate the slope, intercept and the r_value 
 ```
+```cpp
+//Test for git
+# include<stdio.h>
+int main()
+{
+    printf("%s","Test");
+    return 0;
+}
+```
 
 
 
