@@ -44,3 +44,10 @@ This Github Repo is used to store the course notes in markdown, which URL is htt
 ### 3.3: The use of .gitignore 
 * Create a file named '.gitignore' can ignore some system files when doing the push.
 * The '.gitignore' modal can be found on github and should be added before add anything to git.
+## 4: Use Vscode extension doing add/commit and push/fetch
+* Open the local repo
+* control+shift+G open **Source Control**
+* Click the 'sync' to do the 'git fetch <remote-repo>' and 'git merge main'
+* Modify the codes, then click '+' to do 'git add'.
+* Type in commit and use command+enter to do 'git commit'.
+* Click the 'sync' to do 'git push <remote-repo>'.
